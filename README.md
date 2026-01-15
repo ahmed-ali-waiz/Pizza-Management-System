@@ -187,7 +187,7 @@ NODE_ENV=development
 # MongoDB
 MONGODB_URI=mongodb://localhost:27017/pizza-management
 # or MongoDB Atlas
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/pizza-management
+# MONGODB_URI=mongodb+srv://<your-username>:<your-password>@<your-cluster>.mongodb.net/pizza-management
 
 # JWT
 JWT_SECRET=your_jwt_secret_key
